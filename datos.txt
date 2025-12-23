@@ -1,0 +1,15 @@
+nombre|edad|ciudad
+Juan|28|Lima
+Ana|22|Buenos Aires
+Pablo|28|Lima
+Carlos|22|Buenos Aires
+Maria|28|Lima
+Carla|22|Buenos Aires
+Juan|28|Lima
+Marcos|22|Buenos Aires
+Jhon|28|Santiago
+Camila|22|Buenos Aires
+Enzo|28|Lima
+Julian|22|Buenos Aires
+Tita|28|Lima
+Pepe|22|Bogota
