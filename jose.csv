@@ -1,0 +1,17 @@
+BLOQUE;CODIGO OPERACIÓN;DESCRIPCION;Operación;Precendente
+CINTA;4782;Preparar cinta;A;
+MANGAS;34841;Pegar puño;B;
+MANGAS;9466;Pesp manga + atraque;C;B
+ENSAMBLE;42077;Union de Hombro;D;
+ENSAMBLE;42078;pespunte de Hombro;E;D
+ENSAMBLE;10753;Recubierto de basta abierta;F;
+ENSAMBLE;41632;Pegado de cinta;G;E
+ENSAMBLE;41258;Asentado de cuello;H;G
+ENSAMBLE;41995;Pegar pechera;I;H
+ENSAMBLE;41996;Preparado de Pechera;J;I
+ENSAMBLE;10668;Atraque de Pechera;K;J
+ENSAMBLE;41695;Cerrado de costado;L;E,F,C
+ENSAMBLE;41636;Pegado de cinta;M;L,A
+ENSAMBLE;2084;Atraque automatico;N;M
+ENSAMBLE;21547;Ojalar;O;K
+ENSAMBLE;21548;Botonera;P;O
